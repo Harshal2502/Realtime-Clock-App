@@ -1,3 +1,3 @@
 # Real-time-clock-App
 
-A Real time clock with React JS!
+A Simple Real time clock with React JS!
